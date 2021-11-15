@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M24256-BR
+D 256-Kbit serial I²C bus EEPROM
+K EEPROM
+F https://www.st.com/resource/en/datasheet/m24256-bf.pdf
+$ENDCMP
+#
+#End Doc Library

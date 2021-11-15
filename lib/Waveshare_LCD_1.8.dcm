@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Waveshare_LCD_1_8
+D general LCD display Module, TFT screen, 1.8inch diagonal, 128×160 resolution, Controller: ST7735S
+K ST7735S LCD display Module 128×160
+F https://www.waveshare.com/wiki/1.8inch_LCD_Module#Hardware_connection
+$ENDCMP
+#
+#End Doc Library

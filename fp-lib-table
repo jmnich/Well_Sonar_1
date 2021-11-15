@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name GCT_USB4085)(type KiCad)(uri ${KIPRJMOD}/lib/GCT_USB4085.pretty)(options "")(descr ""))
+  (lib (name TayioYuden_NRS50xx)(type KiCad)(uri ${KIPRJMOD}/lib/TayioYuden_NRS50xx.pretty)(options "")(descr ""))
+  (lib (name WE_691216710002)(type KiCad)(uri ${KIPRJMOD}/lib/WE_691216710002.pretty)(options "")(descr ""))
+  (lib (name 10pin_1.27_socket)(type KiCad)(uri ${KIPRJMOD}/lib/10pin_1.27_socket.pretty)(options "")(descr ""))
+  (lib (name MKT_L13xW6xH12_p10)(type KiCad)(uri ${KIPRJMOD}/lib/MKT_L13xW6xH12_p10.pretty)(options "")(descr ""))
+  (lib (name Waveshare_LCD_1.8)(type KiCad)(uri ${KIPRJMOD}/lib/Waveshare_LCD_1.8.pretty)(options "")(descr ""))
+  (lib (name Molex_104031-0811)(type KiCad)(uri ${KIPRJMOD}/lib/Molex_104031-0811.pretty)(options "")(descr ""))
+  (lib (name T73XW-VISHAY)(type KiCad)(uri ${KIPRJMOD}/lib/T73XW-VISHAY.pretty)(options "")(descr ""))
+)

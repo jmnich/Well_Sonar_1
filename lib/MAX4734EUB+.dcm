@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX4734EUB+
+D 0.8Ω, Low-Voltage, 4-Channel Analog Multiplexer
+K  4:1 Analog Multiplexer
+F https://datasheets.maximintegrated.com/en/ds/MAX4734.pdf
+$ENDCMP
+#
+#End Doc Library

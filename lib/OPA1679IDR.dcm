@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA1679IDR
+D Rail-to-rail, +-18V, low noise, Low-Distortion Audio Operational Amplifiers
+K Rail-to-rail, opamp, audio, low noise
+F https://www.ti.com/lit/ds/symlink/opa1679.pdf?ts=1602101257167&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FOPA1679
+$ENDCMP
+#
+#End Doc Library

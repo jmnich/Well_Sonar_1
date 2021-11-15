@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRLL014NPBF
+D MOSFET N 55V 2A
+K MOSFET N
+F https://www.infineon.com/dgdl/irll014npbf.pdf?fileId=5546d462533600a401535664368425cf
+$ENDCMP
+#
+#End Doc Library

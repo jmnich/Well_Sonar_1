@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD823
+D Dual, 16 MHz, Rail-to-Rail FET Input Amplifier
+K 16 MHz, Rail-to-Rail FET Input Amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD823.pdf
+$ENDCMP
+#
+#End Doc Library

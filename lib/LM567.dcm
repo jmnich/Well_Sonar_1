@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM567
+D LM567x Tone Decoder
+K Tone Decoder Detector
+F https://www.ti.com/lit/ds/symlink/lm567c.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1636835120233&ref_url=https%253A%252F%252Fpl.mouser.com%252F
+$ENDCMP
+#
+#End Doc Library

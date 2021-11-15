@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name IRLL014NPBF)(type Legacy)(uri ${KIPRJMOD}/lib/IRLL014NPBF.lib)(options "")(descr ""))
+  (lib (name LM4140ACM-2.0)(type Legacy)(uri ${KIPRJMOD}/lib/LM4140ACM-2.0.lib)(options "")(descr ""))
+  (lib (name OPA1679IDR)(type Legacy)(uri ${KIPRJMOD}/lib/OPA1679IDR.lib)(options "")(descr ""))
+  (lib (name AD823)(type Legacy)(uri ${KIPRJMOD}/lib/AD823.lib)(options "")(descr ""))
+  (lib (name LM567)(type Legacy)(uri ${KIPRJMOD}/lib/LM567.lib)(options "")(descr ""))
+  (lib (name MAX4734EUB+)(type Legacy)(uri ${KIPRJMOD}/lib/MAX4734EUB+.lib)(options "")(descr ""))
+  (lib (name M24256-BR)(type Legacy)(uri ${KIPRJMOD}/lib/M24256-BR.lib)(options "")(descr ""))
+  (lib (name Waveshare_LCD_1.8)(type Legacy)(uri ${KIPRJMOD}/lib/Waveshare_LCD_1.8.lib)(options "")(descr ""))
+  (lib (name IS25LP032D)(type Legacy)(uri ${KIPRJMOD}/lib/IS25LP032D.lib)(options "")(descr ""))
+)

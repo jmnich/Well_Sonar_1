@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4140ACM-2.0
+D LM4140 High Precision Low Noise Low Dropout Voltage Reference
+K Voltage Reference
+F https://www.ti.com/lit/ds/symlink/lm4140.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1615750404260&ref_url=https%253A%252F%252Fcz.mouser.com%252F
+$ENDCMP
+#
+#End Doc Library
